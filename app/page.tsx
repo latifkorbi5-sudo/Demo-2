@@ -393,9 +393,9 @@ const files = [
     url: "/DSC02735.JPG",
   },
   {
-    filename: "/DSC920.JPG",
+    filename: "/DSC02920.JPG",
     type: "image/jpeg",
-    url: "/DSC0920.JPG",
+    url: "/DSC02920.JPG",
   },
   {
     filename: "/DSC02921.JPG",
