@@ -357,6 +357,21 @@ const files = [
     type: "image/jpeg",
     url: "/DSC02928.JPG",
   },
+  {
+    filename: "/DSC02945.JPG",
+    type: "image/jpeg",
+    url: "/DSC02945.JPG",
+  },
+  {
+    filename: "/DSC02948.JPG",
+    type: "image/jpeg",
+    url: "/DSC02948.JPG",
+  },
+  {
+    filename: "/DSC02951.JPG",
+    type: "image/jpeg",
+    url: "/DSC02951.JPG",
+  },
 ];
 
 export default function DownloadableGallery() {
