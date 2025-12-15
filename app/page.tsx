@@ -412,6 +412,61 @@ const files = [
     type: "image/jpeg",
     url: "/DSC02923.JPG",
   },
+  {
+    filename: "/DSC02955.JPG",
+    type: "image/jpeg",
+    url: "/DSC02955.JPG",
+  },
+  {
+    filename: "/DSC02956.JPG",
+    type: "image/jpeg",
+    url: "/DSC02956.JPG",
+  },
+  {
+    filename: "/DSC02985.JPG",
+    type: "image/jpeg",
+    url: "/DSC02958.JPG",
+  },
+  {
+    filename: "/DSC02959.JPG",
+    type: "image/jpeg",
+    url: "/DSC02959.JPG",
+  },
+  {
+    filename: "/DSC02961.JPG",
+    type: "image/jpeg",
+    url: "/DSC02961.JPG",
+  },
+  {
+    filename: "/DSC02962.JPG",
+    type: "image/jpeg",
+    url: "/DSC02962.JPG",
+  },
+  {
+    filename: "/DSC02963.JPG",
+    type: "image/jpeg",
+    url: "/DSC02963.JPG",
+  },
+  {
+    filename: "/DSC02964.JPG",
+    type: "image/jpeg",
+    url: "/DSC02964.JPG",
+  },
+  {
+    filename: "/DSC02965.JPG",
+    type: "image/jpeg",
+    url: "/DSC02965.JPG",
+  },
+  {
+    filename: "/DSC02970.JPG",
+    type: "image/jpeg",
+    url: "/DSC02970.JPG",
+  },
+  {
+    filename: "/DSC02971.JPG",
+    type: "image/jpeg",
+    url: "/DSC02971.JPG",
+  },
 ];
 
 export default function DownloadableGallery() {
