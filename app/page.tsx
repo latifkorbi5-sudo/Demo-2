@@ -507,6 +507,11 @@ const files = [
     type: "image/jpeg",
     url: "/DSC02834.JPG",
   },
+  {
+    filename: "/DSC02911.JPG",
+    type: "image/jpeg",
+    url: "/DSC02911.JPG",
+  },
 ];
 
 export default function DownloadableGallery() {
