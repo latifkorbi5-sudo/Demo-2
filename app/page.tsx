@@ -503,11 +503,6 @@ const files = [
     url: "/DSC02984.JPG",
   },
   {
-    filename: "/DSC02834.JPG",
-    type: "image/jpeg",
-    url: "/DSC02834.JPG",
-  },
-  {
     filename: "/DSC02911.JPG",
     type: "image/jpeg",
     url: "/DSC02911.JPG",
@@ -516,16 +511,6 @@ const files = [
     filename: "/DSC03022.JPG",
     type: "image/jpeg",
     url: "/DSC03022.JPG",
-  },
-  {
-    filename: "/DSC03023.JPG",
-    type: "image/jpeg",
-    url: "/DSC03023.JPG",
-  },
-  {
-    filename: "/DSC03027.JPG",
-    type: "image/jpeg",
-    url: "/DSC03027.JPG",
   },
   {
     filename: "/DSC03034.JPG",
@@ -546,11 +531,6 @@ const files = [
     filename: "/DSC03037.JPG",
     type: "image/jpeg",
     url: "/DSC03037.JPG",
-  },
-  {
-    filename: "/DSC03038.JPG",
-    type: "image/jpeg",
-    url: "/DSC03038.JPG",
   },
   {
     filename: "/DSC03039.JPG",
