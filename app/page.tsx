@@ -527,6 +527,71 @@ const files = [
     type: "image/jpeg",
     url: "/DSC03027.JPG",
   },
+  {
+    filename: "/DSC03034.JPG",
+    type: "image/jpeg",
+    url: "/DSC03034.JPG",
+  },
+  {
+    filename: "/DSC03035.JPG",
+    type: "image/jpeg",
+    url: "/DSC03035.JPG",
+  },
+  {
+    filename: "/DSC03036.JPG",
+    type: "image/jpeg",
+    url: "/DSC03036.JPG",
+  },
+  {
+    filename: "/DSC03037.JPG",
+    type: "image/jpeg",
+    url: "/DSC03037.JPG",
+  },
+  {
+    filename: "/DSC03038.JPG",
+    type: "image/jpeg",
+    url: "/DSC03038.JPG",
+  },
+  {
+    filename: "/DSC03039.JPG",
+    type: "image/jpeg",
+    url: "/DSC03039.JPG",
+  },
+  {
+    filename: "/DSC03040.JPG",
+    type: "image/jpeg",
+    url: "/DSC03040.JPG",
+  },
+  {
+    filename: "/DSC03041.JPG",
+    type: "image/jpeg",
+    url: "/DSC03041.JPG",
+  },
+  {
+    filename: "/DSC03043.JPG",
+    type: "image/jpeg",
+    url: "/DSC03043.JPG",
+  },
+  {
+    filename: "/DSC03044.JPG",
+    type: "image/jpeg",
+    url: "/DSC03044.JPG",
+  },
+  {
+    filename: "/DSC03046.JPG",
+    type: "image/jpeg",
+    url: "/DSC03046.JPG",
+  },
+  {
+    filename: "/DSC03047.JPG",
+    type: "image/jpeg",
+    url: "/DSC03047.JPG",
+  },
+  {
+    filename: "/DSC03048.JPG",
+    type: "image/jpeg",
+    url: "/DSC03048.JPG",
+  },
 ];
 
 export default function DownloadableGallery() {
